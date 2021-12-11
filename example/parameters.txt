@@ -1,0 +1,2 @@
+bmtaggerfile	sample.bmtagger.list
+sequences	R1.fastq
